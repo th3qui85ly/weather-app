@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Deployment
 
-[Link to deployed product](https://external.ink?to=/weather-app-1912.netlify.app){:target="\_blank"}
+<a href="https://weather-app-1912.netlify.app" target="_blank">Link to deployed product</a>
