@@ -29,7 +29,7 @@ function App() {
     .then((response) => {
       console.log('onecall : ', response.data);
     })
-  }, [lat, long]);
+  });
   
   return (
     <div className="App">
