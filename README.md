@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Deployment
 
-[Link to deployed product](https://weather-app-1912.netlify.app)
+[Link to deployed product](https://external.ink?to=/weather-app-1912.netlify.app)
